@@ -57,7 +57,7 @@ picture = "";
 items.push({question,answer,group,picture});
 
 question = ["Individuals in this stage exits from the cycle of change without the fear of relapse"];
-answer = ["Termanation","Adaption"];
+answer = ["Termination","Adaption"];
 group = "BehaviorChangeTheory";
 picture = "";
 items.push({question,answer,group,picture});
